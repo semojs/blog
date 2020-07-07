@@ -15,7 +15,7 @@ exports.handler = async function (argv) {
   const postDir = Utils.config('postDir')
   const content = [`# ${argv.title}`]
 
-  content.push(`vipzhicheng 发布于 ${Utils.day().format('YYYY-M-D HH:mm:ss')}`)
+  content.push(`vipzhicheng 发布于 ${Utils.day().format('YYYY年MM月DD日 HH:mm')}`)
 
   const fileName = (argv.title) + '.md'
   const filePath = `${postDir}/${fileName}`
