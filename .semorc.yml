@@ -1,0 +1,6 @@
+commandDir: bin/semo/commands
+pluginDir: bin/semo/plugins
+extendDir: bin/semo/extends
+scriptDir: bin/semo/scripts
+hookDir: bin/semo/hooks
+postDir: posts
