@@ -6,17 +6,38 @@
 
 Semo 是一个命令行开发规范，基于 `yargs` 设计，特性主要是插件机制，配置机制和钩子机制。可以实现较为统一的命令行工具风格。另外，也希望借助社区扩大 Semo 插件的数量，从而形成真正的价值生态。
 
-## 基本使用
+## 安装
 
 ```bash
 npm i -g @semo/cli # 一般都建议全局安装，如果不具备这个条件，也可以安装在本地，然后用 npx 调用
 
 semo help
-
-semo run hello-world
 ```
+
+## 基本使用
+
+准备了一个 `hello-world` 插件，可以让大家感受一下
+
+```
+semo run hello-world
+semo run hello-world -- --lang=zh_CN
+```
+
+在项目中整合 `Semo`
+
+```
+semo init
+```
+
+在项目中新建一个命令
+
+```
+semo generate command test
+semo test
+```
+
 
 ## 参考文档
 
-我写了一份文档，在 [semo.js.org](https://semo.js.org)，可能还有很多不完善的地方，仅供参考，如果问题，欢迎讨论交流。
+更多用法，请参考：[semo.js.org](https://semo.js.org)，可能还有很多不完善的地方，仅供参考，如果问题，欢迎讨论交流。
 
