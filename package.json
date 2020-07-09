@@ -1,0 +1,11 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:semojs/blog.git",
+  "author": "Richard Yu <vipzhicheng@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "bash deploy.sh"
+  }
+}
