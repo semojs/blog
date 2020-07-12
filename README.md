@@ -1,5 +1,7 @@
 ## Releases
 
+* [Semo 1.1 发布](releases/Semo%201.1%20%E5%8F%91%E5%B8%83.md) (2020-07-12 22:32:08)
+
 * [Semo 1.0 正式发布](releases/Semo%201.0%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83.md) (2020-07-08 02:34:46)
 
 ## News
