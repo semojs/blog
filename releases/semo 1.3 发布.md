@@ -1,4 +1,4 @@
-# semo 1.3 发布
+# Semo 1.3 发布
 
 1.2 出了点小问题，被1.3覆盖啦，后面需要引入一些单元测试了...
 
@@ -11,6 +11,8 @@
 $plugins:
   hello-world: true
 ```
+
+注意：此机制在下个版本中会微调成 `$plugins.register`
 
 ## Bugs
 
