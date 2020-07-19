@@ -15,7 +15,7 @@
 关于 `Semo.run` 的使用场景：
 
 ```
->>> Semo.run(redis.load('regisConnection'), 'get', 'k1')
+>>> Semo.run(redis.load('redisConnection'), 'get', 'k1')
 ```
 
 通过这种方式一行代码完成初始化和对应方法的执行。
