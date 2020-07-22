@@ -10,6 +10,8 @@
 
 ## News
 
+* [插件 semo-plugin-dingtalk 发布](news/%E6%8F%92%E4%BB%B6%20semo-plugin-dingtalk%20%E5%8F%91%E5%B8%83.md) (2020-07-22 12:20:54)
+
 * [插件 semo-plugin-api 发布](news/%E6%8F%92%E4%BB%B6%20semo-plugin-api%20%E5%8F%91%E5%B8%83.md) (2020-07-19 12:55:37)
 
 * [插件 semo-plugin-chalk 发布](news/%E6%8F%92%E4%BB%B6%20semo-plugin-chalk%20%E5%8F%91%E5%B8%83.md) (2020-07-12 22:44:54)
