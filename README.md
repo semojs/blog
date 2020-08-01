@@ -10,6 +10,8 @@
 
 ## News
 
+* [插件 semo-plugin-repl-translate 发布](news/%E6%8F%92%E4%BB%B6%20semo-plugin-repl-translate%20%E5%8F%91%E5%B8%83.md) (2020-08-02 00:35:54)
+
 * [插件 semo-plugin-repl-doc 发布](news/%E6%8F%92%E4%BB%B6%20semo-plugin-repl-doc%20%E5%8F%91%E5%B8%83.md) (2020-07-27 02:06:25)
 
 * [插件 semo-plugin-dingtalk 发布](news/%E6%8F%92%E4%BB%B6%20semo-plugin-dingtalk%20%E5%8F%91%E5%B8%83.md) (2020-07-22 12:20:54)
