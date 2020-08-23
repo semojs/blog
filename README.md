@@ -10,6 +10,10 @@
 
 ## News
 
+* [插件 semo-plugin-repl-tldr 发布](news/%E6%8F%92%E4%BB%B6%20semo-plugin-repl-tldr%20%E5%8F%91%E5%B8%83.md) (2020-08-23 18:40:06)
+
+* [插件 semo-plugin-repl-wiki 发布](news/%E6%8F%92%E4%BB%B6%20semo-plugin-repl-wiki%20%E5%8F%91%E5%B8%83.md) (2020-08-23 18:38:32)
+
 * [插件 semo-plugin-repl-translate 发布](news/%E6%8F%92%E4%BB%B6%20semo-plugin-repl-translate%20%E5%8F%91%E5%B8%83.md) (2020-08-02 00:35:54)
 
 * [插件 semo-plugin-repl-doc 发布](news/%E6%8F%92%E4%BB%B6%20semo-plugin-repl-doc%20%E5%8F%91%E5%B8%83.md) (2020-07-27 02:06:25)
