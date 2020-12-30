@@ -1,3 +1,5 @@
+# --disable-core-command: true
+
 commandDir: bin/semo/commands
 pluginDir: bin/semo/plugins
 extendDir: bin/semo/extends
