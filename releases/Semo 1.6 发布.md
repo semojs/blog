@@ -18,3 +18,4 @@
 
 * 修复 `status` 命令的 location 位置错误
 * 修复 `shell` 命令自动退出的问题
+* 修复 `create` 命令创建项目模板以后，package.json name 没变的问题
